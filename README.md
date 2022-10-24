@@ -1,6 +1,6 @@
 # Exec-it
-It's a simple shell which working on Linux,  Windows, Mac OS, and Solaris
-rócona dokumentacja/instrukcja programu Exec-it (PL)
+
+##Skrócona dokumentacja/instrukcja programu Exec-it (PL)
 
 ======================================================
 
@@ -20,7 +20,7 @@ Instrukcja uruchomienia:
 
 ======================================================
 
-Znaki specjalne:
+##Znaki specjalne:
 
 
 
@@ -48,7 +48,7 @@ lub ze ścieżką relatywną ~\home\test.sh
 
 ======================================================
 
-Lokalizacje plików / folderów:
+##Lokalizacje plików / folderów:
 
 
 
@@ -78,13 +78,13 @@ Można je stosować w dowolnych ścieżkach podawanych w komendach programu exec
 
 * stosowane przed ścieżką oznacza że dana ścieżka jest absolutna
 
-# lokalizacja pliku programu. jar z którego została uruchomiona powłoka
+\# lokalizacja pliku programu. jar z którego została uruchomiona powłoka
 
 
 
 ======================================================
 
-Dostępne komendy/polecenia (użytkowe oraz działające):
+##Dostępne komendy/polecenia (użytkowe oraz działające):
 
 
 
@@ -111,7 +111,7 @@ pwd [path1] - bez parametru wyświetla obecną lokalizacje ,z parametrem pokazuj
 
 ======================================================
 
-Informacje ogólne , ciekawostki, offtopic:
+#I#nformacje ogólne , ciekawostki, offtopic:
 
 -Program powłoki exec it napisany przez atomwoz`a ma około 3875 linijek kodu + około 5000 linijek zewnętrznych bibliotek (nie Javy).
 
