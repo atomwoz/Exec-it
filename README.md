@@ -20,7 +20,7 @@ Instrukcja uruchomienia:
 
 ======================================================
 
-##Znaki specjalne:
+## Znaki specjalne:
 
 
 
@@ -48,7 +48,7 @@ lub ze ścieżką relatywną ~\home\test.sh
 
 ======================================================
 
-##Lokalizacje plików / folderów:
+## Lokalizacje plików / folderów:
 
 
 
@@ -111,7 +111,7 @@ pwd [path1] - bez parametru wyświetla obecną lokalizacje ,z parametrem pokazuj
 
 ======================================================
 
-#I#nformacje ogólne , ciekawostki, offtopic:
+## Informacje ogólne , ciekawostki, offtopic:
 
 -Program powłoki exec it napisany przez atomwoz`a ma około 3875 linijek kodu + około 5000 linijek zewnętrznych bibliotek (nie Javy).
 
