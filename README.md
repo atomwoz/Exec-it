@@ -92,7 +92,7 @@ exit,end,bye - wyłączają powłokę
 
 help,man - wyświetla ten plik pomocy (jeszcze nie zaimplementowane)
 
-echo [param] - bez parametru wyświelta stan dodatkowych informacji (echo) ,
+echo [param] - bez parametru wyświelta stan dodatkowych informacji (echo) 
 
 	z parametrem (on/off) włącza lub wyłącza stan echo.
 cd,change_directory [path1] - przechodzi do [path1]
@@ -101,7 +101,7 @@ copy,cp [path1] [path2] - kopiuje plik lub folder(może nie działać prawidłow
 
 pwd [path1] - bez parametru wyświetla obecną lokalizacje ,z parametrem pokazuje pełną ścieżke do path1 
 
-	nawet jeśli ten folder / plik nie istnieje
+	awet jeśli ten folder / plik nie istnieje
 
 
 
